@@ -16,7 +16,6 @@ classifier_ = KNeighborsClassifier(algorithm='brute', leaf_size=30,
            metric_params=None, n_jobs=1, p=2,
            weights='uniform')
 
-
 classifier = GridSearchCV(classifier_, cv=10, param_grid=tuned_parameters)
 
 classifier.fit(X,y)
