@@ -1,6 +1,6 @@
 # Machine learning school project 
 
-Classification methods for the Digits dataset
+### Classification methods for the Digits dataset
 
 * K-Nearest Neighbor
 * SVM
@@ -10,7 +10,7 @@ Classification methods for the Digits dataset
 [Digits](http://archive.ics.uci.edu/ml/datasets/Pen-Based+Recognition+of+Handwritten+Digits) - The digits dataset
 
 
-Regression methods for the Abalone dataset
+### Regression methods for the Abalone dataset
 
 * Linear
 * Polynomial
@@ -20,7 +20,7 @@ Regression methods for the Abalone dataset
 
 [Abalone](http://archive.ics.uci.edu/ml/datasets/Abalone) - The Abalone dataset
 
-Build with
+### Build with
 * [Scikit Learn](http://scikit-learn.org/)
 * [Keras](https://keras.io/)
 
